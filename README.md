@@ -19,6 +19,7 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
    <a href="https://webpack.js.org/"><img alt="webpack" width="50px" height="40px" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"/></a>
    <a href="https://reactrouter.com/en/main"><img alt="React Router" width="80px" height="40px" src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png"/></a>
    <a href="https://jestjs.io/"><img alt="Jest" width="50px" height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"/></a>
+   <a href="https://vitejs.dev/"><img alt="Vite" width="50px" height="40px" src="https://vitejs.dev/logo-with-shadow.png"/></a>
 4. Other Programming Languages
    <a href="https://www.python.org/"><img alt="Python" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png"/></a>
    <a href="https://en.m.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="45px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png"/></a>
@@ -35,8 +36,9 @@ Previously worked with:
     * Favourite Games Include:
       * Terraria
       * Minecraft
-      * The Binding of Isaac
-      * Plants Vs Zombies
+      * The Binding of Isaac series
+      * Plants Vs Zombies series
+      * Flash Games
       * Most Paradox Games
 2. Music
     * Rock
