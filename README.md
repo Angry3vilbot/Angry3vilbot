@@ -36,8 +36,8 @@ Previously worked with:
     * Favourite Games Include:
       * Terraria
       * Minecraft
-      * The Binding of Isaac series
-      * Plants Vs Zombies series
+      * The Binding of Isaac Series
+      * Plants Vs Zombies Series
       * Flash Games
       * Most Paradox Games
 2. Music
