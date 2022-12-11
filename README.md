@@ -13,6 +13,7 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
    <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png"/></a>
    <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" width="30px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1280px-CSS3_logo_and_wordmark.svg.png"/></a>
    <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
+   <a href="https://www.typescriptlang.org/"><img alt="TS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/></a>
 2. Front-End Libraries
    <a href="https://reactjs.org/"><img alt="React" width="50px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/></a>
    <a href="https://threejs.org/"><img alt="Three.js" width="50px" height="40px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png"/></a>
