@@ -8,7 +8,7 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
 2. Others
   * English 🇬🇧
   * Have been learning it since I was 7, have a **CEFR level B1** certificate from when I was in grade 7, and a **CEFR level C1** from grade 8.
-## Programming Languages
+## Technologies
 1. Front-End Web Development
    <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png"/></a>
    <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" width="30px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1280px-CSS3_logo_and_wordmark.svg.png"/></a>
@@ -22,7 +22,11 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
    <a href="https://reactrouter.com/en/main"><img alt="React Router" width="80px" height="40px" src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png"/></a>
    <a href="https://jestjs.io/"><img alt="Jest" width="50px" height="40px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"/></a>
    <a href="https://vitejs.dev/"><img alt="Vite" width="50px" height="40px" src="https://vitejs.dev/logo-with-shadow.png"/></a>
-4. Other Programming Languages
+4. Back-End Development
+   <a href="https://nodejs.org/"><img alt="Node.js" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/></a>
+5. Databases
+   <a href="https://www.mongodb.com/"><img alt="MongoDB" width="50px" height="40px" src="http://mongodb-js.github.io/leaf/mongodb-leaf_256x256.png"/></a>
+6. Other Programming Languages
    <a href="https://www.python.org/"><img alt="Python" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png"/></a>
    <a href="https://en.m.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="45px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png"/></a>
 ## IDEs
