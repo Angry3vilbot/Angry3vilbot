@@ -7,7 +7,7 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
   * Ukrainian 🇺🇦
 2. Others
   * English 🇬🇧
-  * Have been learning it since I was 7, have a **CEFR level B1** certificate from when I was in grade 7, and a **CEFR level C1** from grade 8.
+  * Have been learning it since I was 7, have a **CEFR level B1** certificate from when I was in grade 7, a **CEFR level C1** from grade 8 and **Duolingo English Test 145 total**.
 ## Technologies
 1. Front-End Web Development
    <a href="https://en.wikipedia.org/wiki/HTML5"><img alt="HTML" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png"/></a>
