@@ -26,7 +26,9 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
    <a href="https://nodejs.org/"><img alt="Node.js" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/></a>
    <a href="https://expressjs.com/"><img alt="Express" width="100px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"/></a>
    <a href="https://mongoosejs.com/"><img alt="Mongoose" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/></a>
-5. Databases
+5. Full-Stack Development
+   <a href="https://nextjs.org/"><img alt="Next.js" width="50px" height="50px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67"/></a>
+7. Databases
    <a href="https://www.mongodb.com/"><img alt="MongoDB" width="50px" height="40px" src="http://mongodb-js.github.io/leaf/mongodb-leaf_256x256.png"/></a>
 6. Other Programming Languages
    <a href="https://www.python.org/"><img alt="Python" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png"/></a>
