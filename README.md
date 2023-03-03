@@ -34,13 +34,13 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
    <a href="https://www.python.org/"><img alt="Python" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png"/></a>
    <a href="https://en.m.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="45px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png"/></a>
 ## IDEs
-  * <a href="https://code.visualstudio.com/"><img alt="VSCode" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
-  * <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/></a>
+  <a href="https://code.visualstudio.com/"><img alt="VSCode" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/></a>
 
 Previously worked with:
-  * <a href="https://www.sublimetext.com/"><img alt="Sublime Text" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"/></a>
-  * <a href="https://www.jetbrains.com/idea/"><img alt="Intellij IDEA" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
-  * <a href="https://en.wikipedia.org/wiki/Windows_Notepad/"><img alt="Notepad" width="50px" height="50px" src="https://play-lh.googleusercontent.com/jD8waDJPN1yv4OdcB6_ILw9M4kyNPdtgBYtoTiPrYhxA1l4FLSKXXe4kAcDCjmtZmQ4"/></a>
+  <a href="https://www.sublimetext.com/"><img alt="Sublime Text" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img alt="Intellij IDEA" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Windows_Notepad/"><img alt="Notepad" width="50px" height="50px" src="https://play-lh.googleusercontent.com/jD8waDJPN1yv4OdcB6_ILw9M4kyNPdtgBYtoTiPrYhxA1l4FLSKXXe4kAcDCjmtZmQ4"/></a>
 ## Hobbies
 1. Gaming<br>
     * Favourite Games Include:
