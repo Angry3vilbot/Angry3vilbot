@@ -1,5 +1,5 @@
 ## Hello there! My name is Mykhailo Balaker, hailing from 🇺🇦
-I'm **Mykhailo Balaker**, a 17-year-old software engineering enthusiast and a self-taught **front-end** web developer, aspiring to become a **full-stack** web developer.
+I'm **Mykhailo Balaker**, a 17-year-old software engineering enthusiast and a self-taught **full-stack** web developer.
 I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of southern **Ukraine**.
 ## Languages
 1. From my childhood
