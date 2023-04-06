@@ -41,17 +41,3 @@ Previously worked with:
   <a href="https://www.sublimetext.com/"><img alt="Sublime Text" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"/></a>
   <a href="https://www.jetbrains.com/idea/"><img alt="Intellij IDEA" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
   <a href="https://en.wikipedia.org/wiki/Windows_Notepad/"><img alt="Notepad" width="50px" height="50px" src="https://play-lh.googleusercontent.com/jD8waDJPN1yv4OdcB6_ILw9M4kyNPdtgBYtoTiPrYhxA1l4FLSKXXe4kAcDCjmtZmQ4"/></a>
-## Hobbies
-1. Gaming<br>
-    * Favourite Games Include:
-      * Terraria
-      * Minecraft
-      * The Binding of Isaac Series
-      * Plants Vs Zombies Series
-      * Flash Games
-      * Most Paradox Games
-2. Music
-    * Rock
-    * Metal
-    * Piano
-    * Video Game OSTs
