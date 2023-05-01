@@ -33,6 +33,7 @@ I am from a nice, small city of **Melitopol**, in the **Zaporizhzhia** region of
 6. Other Programming Languages
    <a href="https://www.python.org/"><img alt="Python" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png"/></a>
    <a href="https://en.m.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="45px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png"/></a>
+   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" width="45px" height="50px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/></a>
 ## IDEs
   <a href="https://code.visualstudio.com/"><img alt="VSCode" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"/></a>
